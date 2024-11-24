@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img src="./images/Java.svg" alt="Java" width="40">
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="./images/Python.svg" alt="Python" width="40">
+    <img src="./images/python.svg" alt="Python" width="40">
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
     <img src="./images/C.svg" alt="C" width="40">
