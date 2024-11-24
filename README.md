@@ -1,25 +1,14 @@
-<!-- ## Hi there 👋 -->
-
-<!--
-**XYgugugu/XYgugugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h3 align="center"> Hi there, I'm Encheng </h3>
+<h3 align="left"> Hi there, I'm Encheng </h3>
 
 - 🎓 I'm currently a fourth year undergraduate at UIUC@CS <a href="https://siebelschool.illinois.edu/academics/undergraduate" target="blank"> <img align="center" src="./images/uiuc_logo.png" height="25" alt="UIUC"> </a>
 - 👀 I'm learning and researching **Machine Learning/Reinforcement Learning**
 - 📫 Email: encheng2@illinois.edu
+- ✨ Fun fact about me:
+  - 🥤Sprite is my favorite soda, much better than coke ( <img src="./images/sprite.png" alt="sprite" width="15"> >>> <img src="./images/coke.png" alt="coke" width="15">)
+  - 🎄Christmas is the best holiday, because one day after, is my birthday!
+
+<h3 align="left">Employer that by me bubble tea🧋:</h3>
+<a href="https://medicine.illinois.edu/innovation/jumpsimulationcenter" target="blank"> <img align="center" src="./images/cimed.png" height="60" alt="CIMED"> </a>
 
 <h3 align="left">Languages and Tools I used:</h3>
 
