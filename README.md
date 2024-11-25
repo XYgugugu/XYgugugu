@@ -61,7 +61,7 @@
   <img src="./images/unreal.svg" alt="ue" width="40">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linux.org/" target="_blank">
-  <img src="./images/linux.svg" alt="linux" width="40">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.apple.com/apple-vision-pro/" target="_blank">
   <img src="./images/avp.svg" alt="avp" width="40">
