@@ -7,7 +7,7 @@
   - 🥤Sprite is my favorite soda, much better than coke ( <img src="./images/sprite.png" alt="sprite" width="15"> >>> <img src="./images/coke.png" alt="coke" width="15">)
   - 🎄Christmas is the best holiday, because one day after, is my birthday!
 
-<h3 align="left">Employer that by me bubble tea🧋:</h3>
+<h3 align="left">Employer that offer me bubble tea🧋:</h3>
 <a href="https://medicine.illinois.edu/innovation/jumpsimulationcenter" target="blank"> <img align="center" src="./images/cimed.png" height="60" alt="CIMED"> </a>
 
 <h3 align="left">Languages and Tools I used:</h3>
