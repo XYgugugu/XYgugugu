@@ -63,7 +63,7 @@
 <a href="https://www.linux.org/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.apple.com/apple-vision-pro/" target="_blank">
-  <img src="./images/avp.svg" alt="avp" width="40">
+<a href="https://react.dev/" target="_blank">
+  <img src="./images/react.svg" alt="react" width="40">
 </a>
 
