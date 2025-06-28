@@ -1,6 +1,6 @@
 <h3 align="left"> Hi there, I'm Encheng </h3>
 
-- 🎓 I'm currently a fourth year undergraduate at UIUC@CS <a href="https://siebelschool.illinois.edu/academics/undergraduate" target="blank"> <img align="center" src="./images/uiuc_logo.png" height="25" alt="UIUC"> </a>
+- 🎓 I have recently received my BS degree and am continuing to pursue my Master degree from UIUC@CS <a href="https://siebelschool.illinois.edu/academics/undergraduate" target="blank"> <img align="center" src="./images/uiuc_logo.png" height="25" alt="UIUC"> </a>
 - 👀 I'm learning and researching in **Machine Learning/Reinforcement Learning**
 - 📫 Email: encheng2@illinois.edu
 - ✨ Fun fact about me:
